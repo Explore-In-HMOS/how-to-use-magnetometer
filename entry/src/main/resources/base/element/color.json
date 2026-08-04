@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_primary",
+      "value": "#14161b"
+    },
+    {
+      "name": "bg_button_secondary",
+      "value": "#2b2f38"
+    },
+    {
+      "name": "text_primary",
+      "value": "#ffffff"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8a8f9a"
+    },
+    {
+      "name": "status_normal",
+      "value": "#52c41a"
+    },
+    {
+      "name": "status_warning",
+      "value": "#faad14"
+    },
+    {
+      "name": "status_danger",
+      "value": "#ff4d4f"
+    }
+  ]
+}

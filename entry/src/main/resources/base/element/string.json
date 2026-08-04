@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "unit_microtesla",
+      "value": "µT"
+    },
+    {
+      "name": "status_too_weak",
+      "value": "Too weak"
+    },
+    {
+      "name": "status_normal",
+      "value": "Normal"
+    },
+    {
+      "name": "status_interference",
+      "value": "Interference"
+    },
+    {
+      "name": "status_strong_interference",
+      "value": "Strong interference"
+    },
+    {
+      "name": "error_sensor_unavailable",
+      "value": "Sensor unavailable"
+    },
+    {
+      "name": "btn_calibrate",
+      "value": "Calibrate"
+    },
+    {
+      "name": "btn_back",
+      "value": "Back"
+    },
+    {
+      "name": "btn_start",
+      "value": "Start"
+    },
+    {
+      "name": "btn_finish",
+      "value": "Finish"
+    },
+    {
+      "name": "btn_redo",
+      "value": "Redo"
+    },
+    {
+      "name": "title_calibration",
+      "value": "Calibration"
+    },
+    {
+      "name": "label_offsets",
+      "value": "Offsets"
+    },
+    {
+      "name": "hint_figure_eight",
+      "value": "Draw a figure 8, then flip the watch"
+    },
+    {
+      "name": "hint_rotate_to_start",
+      "value": "Rotate the watch in a figure 8 to collect readings"
+    },
+    {
+      "name": "coverage_good",
+      "value": "Coverage good"
+    },
+    {
+      "name": "coverage_keep_rotating",
+      "value": "Keep rotating"
+    }
+  ]
+}
